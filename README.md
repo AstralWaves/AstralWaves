@@ -6,7 +6,7 @@
 
 # 💫 Hi, I’m  AstralWaves 
  
-# <h3 align="center"> AI/ML Enthusiast | Pentester | Bug Hunter</h3>
+# <h3 align="center"> AI/ML Enthusiast | Programmar | Pentester | Bug Hunter</h3>
 
  Passionate about coding, problem-solving, and building innovative projects. I love working with cutting-edge technologies, contributing to open source, and constantly learning new things. With a strong interest in cybersecurity, I explore ethical hacking, vulnerability assessments, and penetration testing to enhance digital security. Always experimenting, optimizing, and breaking things to understand how they work!
 
